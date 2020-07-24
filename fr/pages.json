@@ -1,1 +1,32 @@
-{}
+{
+  "page-title": "{{name}} - Krystara.io",
+  "page-title-platform": "{{name}} ({{platform}}) - Krystara.io",
+
+  "page-pvp": "Classement JCJ",
+  "page-pvp-blurb": "Classement JCJ actuel, mis à jour toutes les heures.",
+  "page-pvp-desc": "Classement JCJ actuel pour Gems of War, mis à jour toutes les heures.",
+
+  "page-events": "Evènements à venir",
+  "page-events-blurb": "Liste des évènements à venir, mise à jour quotidiennement.",
+  "page-events-desc": "Liste des évènements à venir pour Gems of War, mise à jour quotidiennement.",
+
+  "page-tasks": "Tâches en cours",
+  "page-tasks-blurb": "Annonces d'aventures et Tâches de Campagne, mises à jour quotidiennement.",
+  "page-tasks-desc": "Annonces d'aventures et Tâches de Campagne pour Gems of War, mises à jour quotidiennement.",
+
+  "page-guild": "Classement des Guildes",
+  "page-guild-blurb": "Classement actuel des Guildes par trophées et niveaux, mis à jour toutes les heures.",
+  "page-guild-desc": "Classement actuel des Guildes pour Gems of War, trié par trophées et niveaux, mis à jour toutes les heures.",
+
+  "page-guildwars": "Tranches Guerre des Guildes",
+  "page-guildwars-blurb": "Tranches et scores actuels en Guerre des Guildes, mis à jour quotidiennement.",
+  "page-guildwars-desc": "Tranches et scores actuels en Guerre des Guildes pour Gems of War, mis à jour toutes les heures.",
+
+  "page-soulforge": "Soulforge History",
+  "page-soulforge-blurb": "View the current Soulforge rotation, and predict future ones.",
+  "page-soulforge-desc": "View the current Soulforge rotation for Gems of War, and predict future recipes.",
+
+  "page-assets": "Assets",
+  "page-assets-blurb": "Peruse the game's graphics and audio.",
+  "page-assets-desc": "Peruse the Gems of War graphics and audio."
+}
